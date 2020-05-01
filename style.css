@@ -1,0 +1,29 @@
+.header-1 {
+    color: rgb(179, 9, 165);
+    font-family: sans-serif
+  }
+  
+  #paragraph-1 {
+    color: rgb(217, 54, 49);
+  }
+  
+  #paragraph-2 {
+    color: #28ac5c;
+  }
+  ul {
+    list-style-type: none;
+    margin: 1;
+    padding: 1;
+  }
+  li {
+    display: inline;
+  }
+  
+  .header-2 {
+    color: rgb(10, 99, 141);
+    font-family: sans-serif
+  }
+  .header-3 {
+    color: rgb(4, 82, 35);
+    font-family: sans-serif
+  }
