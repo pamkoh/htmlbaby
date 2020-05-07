@@ -25,6 +25,7 @@
     list-style-type: none;
     margin: 1;
     padding: 1;
+    width: 880px;
   }
   li {
     display: inline;
@@ -161,3 +162,14 @@ ul {
         font-family: monospace;
     }
         
+    footer {
+        display: block;
+        color: white;
+        background-color: rgb(156, 127, 127);
+        width: 870px;
+        margin: 0;
+        padding: 0;
+        padding-left: 10px;
+        overflow: hidden;
+        font-family: monospace;
+      }
